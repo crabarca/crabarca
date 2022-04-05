@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi! Hola! 👋
+
+I'm a software developer aiming to write good, usable and human focused software. Currently working on the consulting business.
+
+- 🔭 I’m currently working on providing solutions using the Cloud and Kubernetes
+- 🌱 CUrrently learning Golang and navigating the complexes of big companies IT solutions
+
 
 <!--
 **crabarca/crabarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on providing solutions using the Cloud and Kubernetes
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
