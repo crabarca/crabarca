@@ -1,9 +1,9 @@
 ### Hi! Hola! 👋
 
-I'm a software developer aiming to write good, usable and human focused software. Currently working on the consulting business.
+I'm a software developer aiming to write good, usable and human focused software. Currently working for the IT consulting business.
 
 - 🔭 I’m currently working on providing solutions using the Cloud and Kubernetes
-- 🌱 CUrrently learning Golang and navigating the complexes of big companies IT solutions
+- 🌱 Learning Golang and navigating the complexes of big companies IT solutions
 
 
 <!--
