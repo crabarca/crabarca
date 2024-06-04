@@ -4,9 +4,9 @@ I'm a software developer aiming to write good, usable and human focused software
 
 Feel free to reach me if you have collaboration ideas 😄
 
-**What I'm working on right now**
-- Providing IT solutions by leveraging the Cloud ☁️ and Kubernetes <img align="top" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" width="20px" height="20px" /> for [Liquid Reply](https://github.com/Liquid-Reply)
-- Currently navigating the complex realm of IT Solutions in big companies
+<!-- **What I'm working on right now**
+ - Providing IT solutions by leveraging the Cloud ☁️ and Kubernetes <img align="top" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" width="20px" height="20px" /> for [Liquid Reply](https://github.com/Liquid-Reply)
+ - Currently navigating the complex realm of IT Solutions in big companies -->
 
 
 ### Technologies and platforms  
